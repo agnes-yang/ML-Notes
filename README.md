@@ -58,3 +58,6 @@ Github仓库地址: https://github.com/scarleatt/ML-Notes
 [23_fGAN](https://scarleatt.github.io/2020/07/10/fGAN/)
 
 [24_WGAN](https://scarleatt.github.io/2020/07/14/WGAN/)
+
+[25_Feature Extraction of GAN](https://scarleatt.github.io/2020/07/14/GAN-feature-extraction/)
+
