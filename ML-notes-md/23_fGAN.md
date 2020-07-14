@@ -93,7 +93,7 @@ mode dropping的情况比mode collapse要稍微简单一点，现在real data有
 
 Generator第一次会先产生一些白皮肤的人，再进行一次generator，会产生一些黄皮肤的人，再进行一次generator，会产生一些黑皮肤的人。每次只产生一种分布的数据。
 
-<img src="/Users/liufang/Library/Application Support/typora-user-images/image-20200710175725435.png" alt="image-20200710175725435" style="zoom:50%;" />
+<img src="https://gitee.com/scarleatt/image/raw/master/img/image-20200710175725435.png" alt="image-20200710175725435" style="zoom:50%;" />
 
 会出现这个问题，一个很可能的原因就是divergence选得不好。
 
