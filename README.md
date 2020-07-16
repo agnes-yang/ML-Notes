@@ -4,8 +4,9 @@ ps：如果我的笔记对你有帮助，给个star叭！
 
 
 ##### Pages
-
 Github仓库地址: https://github.com/scarleatt/ML-Notes
+
+在线阅读地址：https://scarleatt.github.io/categories/ML-notes/
 
 在线阅读地址(快速链接)：http://scarleatt.gitee.io/
 
@@ -60,4 +61,8 @@ Github仓库地址: https://github.com/scarleatt/ML-Notes
 [24_WGAN](https://scarleatt.github.io/2020/07/14/WGAN/)
 
 [25_Feature Extraction of GAN](https://scarleatt.github.io/2020/07/14/GAN-feature-extraction/)
+
+[26_Intelligent Photo Editing](https://scarleatt.github.io/2020/07/15/GAN-Intelligent-Photo-Editing/)
+
+[27_Improving Sequence Generation by GAN](https://scarleatt.github.io/2020/07/16/GANSeqNew/)
 
