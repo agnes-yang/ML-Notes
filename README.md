@@ -68,3 +68,5 @@ Github仓库地址: https://github.com/scarleatt/ML-Notes
 
 [28_Evalution of Generative Models](https://scarleatt.github.io/2020/07/17/GAN-evalution/)
 
+[29_Transfer_Learning](https://scarleatt.github.io/2020/07/20/transfer-learning/)
+
