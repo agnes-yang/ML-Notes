@@ -70,3 +70,7 @@ Github仓库地址: https://github.com/scarleatt/ML-Notes
 
 [29_Transfer_Learning](https://scarleatt.github.io/2020/07/20/transfer-learning/)
 
+##### Extension
+
+[Sequence Labeling Problem (HMM and CRF)](https://scarleatt.github.io/2020/07/20/sequence-labeling/)
+
